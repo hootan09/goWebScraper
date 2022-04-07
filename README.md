@@ -1,6 +1,6 @@
 #### Go Web Scraper Sample
 
-**this repo Uses Colly Package**
+**this repo Using Colly Package**
 https://github.com/gocolly/colly
 
 this is sample of Scraping https:\\\divar.ir
