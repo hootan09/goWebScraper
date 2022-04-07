@@ -3,7 +3,7 @@
 **this repo Uses Colly Package**
 https://github.com/gocolly/colly
 
-this is sample of Scraping https:\\divar.ir
+this is sample of Scraping https:\\\divar.ir
 
 Run
 ```sh
